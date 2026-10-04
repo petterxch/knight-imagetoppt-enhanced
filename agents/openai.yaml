@@ -1,0 +1,8 @@
+interface:
+  display_name: "图片转可编辑PPT · 增强版"
+  short_description: "复用素材、替换真实照片并保留渐变的图片转可编辑PPT流程"
+  default_prompt: "Use $knight-imagetoppt-enhanced to convert this slide image into an editable PowerPoint, reusing available assets and verifying the rendered output."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
